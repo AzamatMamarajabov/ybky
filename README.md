@@ -147,4 +147,4 @@ HTTP 410: Tanlangan vaqtda xona band bo'lganda
 {
   "error": "Xona berilgan vaqt oralig'ida band qilingan"
 }
-#
+
